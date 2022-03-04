@@ -8,6 +8,8 @@ Glutamine	Gln
 Glycine		Gly
 Histidine	His
 Isoleucine	Ile
+
+
 Leucine		Leu
 Lysine		Lys
 Methionine	Met
